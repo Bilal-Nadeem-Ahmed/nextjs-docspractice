@@ -1,2 +1,1 @@
-# nextjs-docspractice
-this is the blog tutorial from the next js documentation
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
